@@ -1,0 +1,16 @@
+{
+  "name": "0608ll",
+  "description": "Deploy 0608ll",
+  "keywords": [
+    "0608ll"
+  ],
+  "env": {
+    "UUID": {
+      "description": "UUID",
+      "value": "e4e29080-b516-4728-a01f-b482232c929a"
+    }
+  },
+  "website": "https://github.com/books970/0608ll/",
+  "repository": "https://github.com/books970/0608ll",
+  "stack": "container"
+}
